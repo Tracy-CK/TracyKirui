@@ -50,7 +50,7 @@ Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
 
 ## 📫 Connect with me
 
-[![LinkedIn](www.linkedin.com/in/tracy-kirui-24b18416a)
+[![LinkedIn](www.linkedin.com/in/tracy-kirui)
 
 ---
 
