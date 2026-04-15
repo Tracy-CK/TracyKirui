@@ -1,5 +1,3 @@
-# TracyKirui
-# TracyKirui
 # Hi, I'm Tracy 👋
 
 I'm a Master's student in **Predictive Analytics** at Curtin University (Perth, WA), with an undergraduate background in **Finance**. I'm passionate about using data to understand markets, drive investment decisions, and tell compelling stories with data.
